@@ -39,8 +39,10 @@ Este repositório contém desafios resolvidos em Python como parte da trilha de 
 -Define a classe **ConversorTemperatura** com o método para converter Celsius para Fahrenheit. 
  
 
- 👨‍💻 Resolvido por Leonardo Martins.
+ ## 👨‍💻 Resolvido por Leonardo Martins.
 
- ## Certificado
+ ## 🏅 Certificado
+
+ ![Certificado Python Fundamentals](certificado.png)
 
  
