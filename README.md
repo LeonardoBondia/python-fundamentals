@@ -40,7 +40,7 @@ Define a classe **ConversorTemperatura** com o método para converter Celsius pa
  
 
  ## 👨‍💻 Resolvido por Leonardo Martins.
- [LinkedIn](https://www.linkedin.com/in/leonardo-bondia) • [GitHub](https://github.com/LeonardoBondia)
+ [LinkedIn](www.linkedin.com/in/leonardo-bondia-1338242b4) • [GitHub](https://github.com/LeonardoBondia)
 
  ## 🏅 Certificado
 
